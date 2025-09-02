@@ -85,13 +85,13 @@
   align-items:center;
   writing-mode:vertical-rl;
   text-orientation:mixed;
-  color:#9ca3af;
+  color:var(--gray);
   font-size:48px;
   letter-spacing:.12em;
 }
 .vlabel p{
   writing-mode:horizontal-tb;
-  color:#6b7280;
+  color:var(--gray);
   font-weight:600;
   letter-spacing:0;
   margin-top:0;
